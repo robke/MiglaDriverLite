@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name 74AHCT125)(type Legacy)(uri C:/ww/Mano/MagicLights/MagicLightsPCB/MagicLightsPCBNeo/libraries/74AHCT125.lib)(options "")(descr ""))
+  (lib (name 74AHC1G125)(type Legacy)(uri C:/ww/Mano/MagicLights/MagicLightsPCB/MagicLightsPCBNeo/libraries/74AHC1G125.lib)(options "")(descr ""))
+  (lib (name prtr5v0u4d)(type Legacy)(uri ${KIPRJMOD}/libraries/prtr5v0u4d/prtr5v0u4d.lib)(options "")(descr ""))
+  (lib (name L9110s)(type Legacy)(uri ${KIPRJMOD}/libraries/L9110s/L9110s.lib)(options "")(descr ""))
+  (lib (name DRV8220)(type Legacy)(uri ${KIPRJMOD}/libraries/DRV8220/DRV8220.lib)(options "")(descr ""))
+)
